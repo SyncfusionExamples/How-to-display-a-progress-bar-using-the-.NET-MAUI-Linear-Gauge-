@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace ProgressBarKB;
+namespace ProgressBar;
 
 [Application]
 public class MainApplication : MauiApplication

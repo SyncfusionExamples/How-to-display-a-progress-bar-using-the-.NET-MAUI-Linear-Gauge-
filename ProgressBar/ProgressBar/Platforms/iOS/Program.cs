@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace ProgressBarKB;
+namespace ProgressBar;
 
 public class Program
 {

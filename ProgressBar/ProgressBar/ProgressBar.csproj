@@ -6,17 +6,17 @@
 		<!-- Uncomment to also build the tizen app. You will need to install tizen by following this: https://github.com/Samsung/Tizen.NET -->
 		<!-- <TargetFrameworks>$(TargetFrameworks);net6.0-tizen</TargetFrameworks> -->
 		<OutputType>Exe</OutputType>
-		<RootNamespace>ProgressBarKB</RootNamespace>
+		<RootNamespace>ProgressBar</RootNamespace>
 		<UseMaui>true</UseMaui>
 		<SingleProject>true</SingleProject>
 		<ImplicitUsings>enable</ImplicitUsings>
 
 		<!-- Display name -->
-		<ApplicationTitle>ProgressBarKB</ApplicationTitle>
+		<ApplicationTitle>ProgressBar</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.progressbarkb</ApplicationId>
-		<ApplicationIdGuid>5FF77835-42A3-47A8-9418-E89312F1F973</ApplicationIdGuid>
+		<ApplicationId>com.companyname.progressbar</ApplicationId>
+		<ApplicationIdGuid>C4B5DA0F-10D3-406B-87A4-9287FAF3DA2C</ApplicationIdGuid>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>

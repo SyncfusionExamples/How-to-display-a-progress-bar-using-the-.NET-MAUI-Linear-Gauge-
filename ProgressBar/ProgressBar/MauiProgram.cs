@@ -1,6 +1,6 @@
 ﻿using Syncfusion.Maui.Core.Hosting;
 
-namespace ProgressBarKB;
+namespace ProgressBar;
 
 public static class MauiProgram
 {

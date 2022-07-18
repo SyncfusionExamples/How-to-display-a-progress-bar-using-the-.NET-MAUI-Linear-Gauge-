@@ -1,4 +1,4 @@
-﻿namespace ProgressBarKB;
+﻿namespace ProgressBar;
 
 public partial class App : Application
 {

@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace ProgressBarKB;
+namespace ProgressBar;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate
