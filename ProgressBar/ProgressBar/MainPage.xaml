@@ -6,7 +6,7 @@
 
     <gauge:SfLinearGauge Maximum="100"
                          WidthRequest="350"
-                         VerticalOptions="CenterAndExpand"
+                         VerticalOptions="Center"
                          EnableAxisAnimation="True"
                          ShowLabels="False"
                          ShowTicks="False">
@@ -32,6 +32,7 @@
                 <gauge:LinearContentPointer.Content>
                     <HorizontalStackLayout>
                         <Label Text="{Binding Source={x:Reference barpointer}, Path=Value}"
+                               x:DataType="gauge:BarPointer"
                                TextColor="White"
                                FontAttributes="Bold" />
                         <Label Text="%"
